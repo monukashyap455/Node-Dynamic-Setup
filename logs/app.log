@@ -1,0 +1,2 @@
+{"contentLength":"123","level":"info","message":"HTTP Access Log","method":"POST","responseTime":11.434,"status":400,"timestamp":"Fri Apr 05 2024 16:50:22 GMT+0530 (India Standard Time)","url":"/api/v1/register"}
+{"contentLength":"58","level":"info","message":"HTTP Access Log","method":"POST","responseTime":0.854,"status":400,"timestamp":"Fri Apr 05 2024 16:51:00 GMT+0530 (India Standard Time)","url":"/api/v1/register"}
